@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-//import '../models/item_model.dart';
-//import '../blocs/sport_blocs.dart';
-import 'package:core/core.dart';
+import '../models/item_model.dart';
+import '../blocs/sport_blocs.dart';
 import 'sport_detail.dart';
 import 'package:flutter_easyrefresh/phoenix_header.dart';
 import 'package:flutter_easyrefresh/easy_refresh.dart';

@@ -8,10 +8,17 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
+  flutter:
+    sdk: flutter
+  flutter_easyrefresh: ^1.2.7
+  shimmer: ^1.0.0
+  curved_navigation_bar: ^0.2.11
   rxdart:
   http:
 
 dev_dependencies:
+  flutter_test:
+    sdk: flutter
   pedantic: ^1.0.0
   test: ^1.0.0
 
